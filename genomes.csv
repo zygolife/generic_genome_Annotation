@@ -1,0 +1,5 @@
+Species,Strain,Phylum,SubPhylum,Prefix,Transcripts,BUSCO
+Gongronella sp.,W5,Mucoromycota,Mucoromycotina,GONGW5,Gongronella.CDS,fungi_odb9
+Chaetocladium jonesii,NRRL_2343,Mucoromycota,Mucoromycotina,NRRL2343,Chaetocladium.CDS,fungi_odb9
+Gilbertella persicaria.from,FSU_2531,Mucoromycota,Mucoromycotina,GPESC,Gilbertella.CDS,fungi_odb9
+Massaspora cicadina,UMICH,Zoopagomycota,Entomophthoromycotina,MCIC,Ento.CDS,fungi_odb9
